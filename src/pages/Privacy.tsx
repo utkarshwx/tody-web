@@ -177,7 +177,7 @@ export default function Privacy() {
 
           <p>
             For privacy-related questions or requests, contact the Tody team
-            through the contact address provided on the Tody website.
+            on our <a href="https://discord.gg/ZXDtEkDupp" className="discord-link" target="_blank" rel="noreferrer">Discord Server</a>.
           </p>
         </section>
 

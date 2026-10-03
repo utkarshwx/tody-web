@@ -842,6 +842,16 @@ a {
   margin: 6px 0;
 }
 
+.discord-link {
+  color: #2563eb;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.discord-link:hover {
+  color: #1d4ed8;
+}
+
 .privacy-footer-note {
   padding-top: 30px;
   border-top: 1px dashed rgba(23, 23, 23, 0.2);
